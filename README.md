@@ -1,0 +1,1 @@
+# plugins-map-categories-to-pages
